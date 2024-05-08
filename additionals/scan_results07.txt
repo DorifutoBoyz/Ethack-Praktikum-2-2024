@@ -1,0 +1,419 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: scan_results07.txt
+START_TIME: Wed May  8 07:33:20 2024
+URL_BASE: http://10.15.42.7/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: Not Stopping on warning messages
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://10.15.42.7/ ----
+==> DIRECTORY: http://10.15.42.7/0/
++ http://10.15.42.7/admin (CODE:302|SIZE:0)
++ http://10.15.42.7/atom (CODE:301|SIZE:0)
++ http://10.15.42.7/dashboard (CODE:302|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/embed/
++ http://10.15.42.7/favicon.ico (CODE:302|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/feed/
++ http://10.15.42.7/h (CODE:301|SIZE:0)
++ http://10.15.42.7/H (CODE:301|SIZE:0)
++ http://10.15.42.7/hello (CODE:301|SIZE:0)
++ http://10.15.42.7/index.php (CODE:301|SIZE:0)
++ http://10.15.42.7/login (CODE:302|SIZE:0)
++ http://10.15.42.7/p (CODE:301|SIZE:0)
++ http://10.15.42.7/P (CODE:301|SIZE:0)
++ http://10.15.42.7/page1 (CODE:301|SIZE:0)
++ http://10.15.42.7/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/post (CODE:301|SIZE:0)
++ http://10.15.42.7/rdf (CODE:301|SIZE:0)
++ http://10.15.42.7/robots.txt (CODE:200|SIZE:110)
++ http://10.15.42.7/rss (CODE:301|SIZE:0)
++ http://10.15.42.7/rss2 (CODE:301|SIZE:0)
++ http://10.15.42.7/s (CODE:301|SIZE:0)
++ http://10.15.42.7/S (CODE:301|SIZE:0)
++ http://10.15.42.7/sa (CODE:301|SIZE:0)
++ http://10.15.42.7/sam (CODE:301|SIZE:0)
++ http://10.15.42.7/sample (CODE:301|SIZE:0)
++ http://10.15.42.7/server-status (CODE:403|SIZE:275)
++ http://10.15.42.7/sitemap.xml (CODE:302|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-admin/
+==> DIRECTORY: http://10.15.42.7/wp-content/
+==> DIRECTORY: http://10.15.42.7/wp-includes/
++ http://10.15.42.7/xmlrpc.php (CODE:405|SIZE:42)
+
+---- Entering directory: http://10.15.42.7/0/ ----
++ http://10.15.42.7/0/atom (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/0/feed/
++ http://10.15.42.7/0/h (CODE:301|SIZE:0)
++ http://10.15.42.7/0/H (CODE:301|SIZE:0)
++ http://10.15.42.7/0/hello (CODE:301|SIZE:0)
++ http://10.15.42.7/0/index.php (CODE:301|SIZE:0)
++ http://10.15.42.7/0/p (CODE:301|SIZE:0)
++ http://10.15.42.7/0/P (CODE:301|SIZE:0)
++ http://10.15.42.7/0/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/0/post (CODE:301|SIZE:0)
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: OPERATION TIMEOUT)
+
+-----------------
+END_TIME: Wed May  8 08:03:08 2024
+DOWNLOADED: 7761 - FOUND: 35
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: scan_results07.txt
+START_TIME: Wed May  8 09:00:00 2024
+URL_BASE: http://10.15.42.7/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: Not Stopping on warning messages
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://10.15.42.7/ ----
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: scan_results07.txt
+START_TIME: Wed May  8 09:02:45 2024
+URL_BASE: http://10.15.42.7/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: Not Stopping on warning messages
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://10.15.42.7/ ----
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: scan_results07.txt
+START_TIME: Wed May  8 09:50:17 2024
+URL_BASE: http://10.15.42.7/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: Not Stopping on warning messages
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://10.15.42.7/ ----
+==> DIRECTORY: http://10.15.42.7/0/
++ http://10.15.42.7/admin (CODE:302|SIZE:0)
++ http://10.15.42.7/atom (CODE:301|SIZE:0)
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: OPERATION TIMEOUT)
+
+-----------------
+END_TIME: Wed May  8 10:06:54 2024
+DOWNLOADED: 702 - FOUND: 2
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: scan_results07.txt
+START_TIME: Wed May  8 10:41:53 2024
+URL_BASE: http://10.15.42.7/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: Not Stopping on warning messages
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://10.15.42.7/ ----
+==> DIRECTORY: http://10.15.42.7/0/
++ http://10.15.42.7/admin (CODE:302|SIZE:0)
++ http://10.15.42.7/atom (CODE:301|SIZE:0)
++ http://10.15.42.7/dashboard (CODE:302|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/embed/
++ http://10.15.42.7/favicon.ico (CODE:302|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/feed/
++ http://10.15.42.7/h (CODE:301|SIZE:0)
++ http://10.15.42.7/H (CODE:301|SIZE:0)
++ http://10.15.42.7/hello (CODE:301|SIZE:0)
++ http://10.15.42.7/index.php (CODE:301|SIZE:0)
++ http://10.15.42.7/login (CODE:302|SIZE:0)
++ http://10.15.42.7/p (CODE:301|SIZE:0)
++ http://10.15.42.7/P (CODE:301|SIZE:0)
++ http://10.15.42.7/page1 (CODE:301|SIZE:0)
++ http://10.15.42.7/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/post (CODE:301|SIZE:0)
++ http://10.15.42.7/rdf (CODE:301|SIZE:0)
++ http://10.15.42.7/robots.txt (CODE:200|SIZE:110)
++ http://10.15.42.7/rss (CODE:301|SIZE:0)
++ http://10.15.42.7/rss2 (CODE:301|SIZE:0)
++ http://10.15.42.7/s (CODE:301|SIZE:0)
++ http://10.15.42.7/S (CODE:301|SIZE:0)
++ http://10.15.42.7/sa (CODE:301|SIZE:0)
++ http://10.15.42.7/sam (CODE:301|SIZE:0)
++ http://10.15.42.7/sample (CODE:301|SIZE:0)
++ http://10.15.42.7/server-status (CODE:403|SIZE:275)
++ http://10.15.42.7/sitemap.xml (CODE:302|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-admin/
+==> DIRECTORY: http://10.15.42.7/wp-content/
+==> DIRECTORY: http://10.15.42.7/wp-includes/
++ http://10.15.42.7/xmlrpc.php (CODE:405|SIZE:42)
+
+---- Entering directory: http://10.15.42.7/0/ ----
++ http://10.15.42.7/0/atom (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/0/feed/
++ http://10.15.42.7/0/h (CODE:301|SIZE:0)
++ http://10.15.42.7/0/H (CODE:301|SIZE:0)
++ http://10.15.42.7/0/hello (CODE:301|SIZE:0)
++ http://10.15.42.7/0/index.php (CODE:301|SIZE:0)
++ http://10.15.42.7/0/p (CODE:301|SIZE:0)
++ http://10.15.42.7/0/P (CODE:301|SIZE:0)
++ http://10.15.42.7/0/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/0/post (CODE:301|SIZE:0)
++ http://10.15.42.7/0/rdf (CODE:301|SIZE:0)
++ http://10.15.42.7/0/rss (CODE:301|SIZE:0)
++ http://10.15.42.7/0/rss2 (CODE:301|SIZE:0)
++ http://10.15.42.7/0/s (CODE:301|SIZE:0)
++ http://10.15.42.7/0/S (CODE:301|SIZE:0)
++ http://10.15.42.7/0/sa (CODE:301|SIZE:0)
++ http://10.15.42.7/0/sam (CODE:301|SIZE:0)
++ http://10.15.42.7/0/sample (CODE:301|SIZE:0)
++ http://10.15.42.7/0/sitemap.xml (CODE:302|SIZE:0)
+
+---- Entering directory: http://10.15.42.7/embed/ ----
++ http://10.15.42.7/embed/atom (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/embed/feed/
++ http://10.15.42.7/embed/h (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/H (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/hello (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/index.php (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/p (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/P (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/post (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/rdf (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/rss (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/rss2 (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/s (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/S (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/sa (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/sam (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/sample (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/sitemap.xml (CODE:302|SIZE:0)
+
+---- Entering directory: http://10.15.42.7/feed/ ----
+==> DIRECTORY: http://10.15.42.7/feed/atom/
++ http://10.15.42.7/feed/feed (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/h (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/H (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/hello (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/index.php (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/p (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/P (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/post (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/feed/rdf/
++ http://10.15.42.7/feed/rss (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rss2 (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/s (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/S (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/sa (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/sam (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/sample (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/sitemap.xml (CODE:302|SIZE:0)
+
+---- Entering directory: http://10.15.42.7/wp-admin/ ----
++ http://10.15.42.7/wp-admin/admin.php (CODE:302|SIZE:0)
++ http://10.15.42.7/wp-admin/atom (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-admin/css/
+==> DIRECTORY: http://10.15.42.7/wp-admin/feed/
++ http://10.15.42.7/wp-admin/h (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/H (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/hello (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-admin/images/
+==> DIRECTORY: http://10.15.42.7/wp-admin/includes/
++ http://10.15.42.7/wp-admin/index.php (CODE:302|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-admin/js/
+==> DIRECTORY: http://10.15.42.7/wp-admin/maint/
+==> DIRECTORY: http://10.15.42.7/wp-admin/network/
++ http://10.15.42.7/wp-admin/p (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/P (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/post (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/rdf (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/rss (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/rss2 (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/s (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/S (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/sa (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/sam (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/sample (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-admin/sitemap.xml (CODE:302|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-admin/user/
+
+---- Entering directory: http://10.15.42.7/wp-content/ ----
++ http://10.15.42.7/wp-content/atom (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-content/cache/
+==> DIRECTORY: http://10.15.42.7/wp-content/feed/
++ http://10.15.42.7/wp-content/h (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/H (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/hello (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/index.php (CODE:200|SIZE:0)
++ http://10.15.42.7/wp-content/p (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/P (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-content/plugins/
++ http://10.15.42.7/wp-content/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/post (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/rdf (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/rss (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/rss2 (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/s (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/S (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/sa (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/sam (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/sample (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-content/sitemap.xml (CODE:302|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-content/themes/
+==> DIRECTORY: http://10.15.42.7/wp-content/uploads/
+
+---- Entering directory: http://10.15.42.7/wp-includes/ ----
+==> DIRECTORY: http://10.15.42.7/wp-includes/assets/
++ http://10.15.42.7/wp-includes/atom (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-includes/blocks/
+==> DIRECTORY: http://10.15.42.7/wp-includes/certificates/
+==> DIRECTORY: http://10.15.42.7/wp-includes/css/
+==> DIRECTORY: http://10.15.42.7/wp-includes/customize/
+==> DIRECTORY: http://10.15.42.7/wp-includes/feed/
+==> DIRECTORY: http://10.15.42.7/wp-includes/fonts/
++ http://10.15.42.7/wp-includes/h (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/H (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/hello (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-includes/images/
++ http://10.15.42.7/wp-includes/index.php (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-includes/js/
++ http://10.15.42.7/wp-includes/p (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/P (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/post (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/rdf (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/rss (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/rss2 (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/s (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/S (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/sa (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/sam (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/sample (CODE:301|SIZE:0)
++ http://10.15.42.7/wp-includes/sitemap.xml (CODE:302|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/wp-includes/sitemaps/
+==> DIRECTORY: http://10.15.42.7/wp-includes/widgets/
+
+---- Entering directory: http://10.15.42.7/0/feed/ ----
+==> DIRECTORY: http://10.15.42.7/0/feed/atom/
++ http://10.15.42.7/0/feed/feed (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/h (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/H (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/hello (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/index.php (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/p (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/P (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/post (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/0/feed/rdf/
++ http://10.15.42.7/0/feed/rss (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/rss2 (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/s (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/S (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/sa (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/sam (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/sample (CODE:301|SIZE:0)
++ http://10.15.42.7/0/feed/sitemap.xml (CODE:302|SIZE:0)
+
+---- Entering directory: http://10.15.42.7/embed/feed/ ----
+==> DIRECTORY: http://10.15.42.7/embed/feed/atom/
++ http://10.15.42.7/embed/feed/feed (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/h (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/H (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/hello (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/index.php (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/p (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/P (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/post (CODE:301|SIZE:0)
+==> DIRECTORY: http://10.15.42.7/embed/feed/rdf/
++ http://10.15.42.7/embed/feed/rss (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/rss2 (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/s (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/S (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/sa (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/sam (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/sample (CODE:301|SIZE:0)
++ http://10.15.42.7/embed/feed/sitemap.xml (CODE:302|SIZE:0)
+
+---- Entering directory: http://10.15.42.7/feed/atom/ ----
++ http://10.15.42.7/feed/atom/atom (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/feed (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/h (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/H (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/hello (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/index.php (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/p (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/P (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/post (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/rdf (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/rss (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/rss2 (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/s (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/S (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/sa (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/sam (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/sample (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/atom/sitemap.xml (CODE:302|SIZE:0)
+
+---- Entering directory: http://10.15.42.7/feed/rdf/ ----
++ http://10.15.42.7/feed/rdf/atom (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/feed (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/h (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/H (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/hello (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/index.php (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/p (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/P (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/pos (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/post (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/rdf (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/rss (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/rss2 (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/s (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/S (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/sa (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/sam (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/sample (CODE:301|SIZE:0)
++ http://10.15.42.7/feed/rdf/sitemap.xml (CODE:302|SIZE:0)
+
+---- Entering directory: http://10.15.42.7/wp-admin/css/ ----
+
+(!) FATAL: Too many errors connecting to host
+    (Possible cause: COULDNT CONNECT)
+
+-----------------
+END_TIME: Wed May  8 13:02:16 2024
+DOWNLOADED: 51046 - FOUND: 206

@@ -1,0 +1,46 @@
+# Nmap 7.94SVN scan initiated Wed May  8 07:06:01 2024 as: nmap -T4 -sCV -p- -A -Pn -oN nmaptes1 10.15.42.7
+Nmap scan report for 10.15.42.7
+Host is up (0.026s latency).
+Not shown: 65533 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.5 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 9a:ed:52:a9:08:9d:71:6f:d1:24:8f:0b:4a:5b:7a:42 (RSA)
+|   256 00:9c:a8:13:91:9f:4f:74:fb:9e:15:a2:36:6b:c5:ba (ECDSA)
+|_  256 d7:55:ff:d7:95:e1:06:26:81:bc:f2:b4:b5:29:a9:37 (ED25519)
+80/tcp open  http    Apache httpd 2.4.59 ((Debian))
+|_http-title: Hello World
+| http-robots.txt: 1 disallowed entry 
+|_/wp-admin/
+|_http-generator: WordPress 6.5.2
+|_http-server-header: Apache/2.4.59 (Debian)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=5/8%OT=22%CT=1%CU=34935%PV=Y%DS=2%DC=T%G=Y%TM=663B5
+OS:CE6%P=x86_64-pc-linux-gnu)SEQ(SP=0%GCD=FA00%ISR=9A%CI=RD%II=I%TS=U)SEQ(S
+OS:P=12%GCD=FA00%ISR=9C%CI=RD%TS=U)SEQ(SP=12%GCD=FA00%ISR=9C%CI=RD%II=I%TS=
+OS:U)SEQ(SP=13%GCD=FA00%ISR=9C%CI=RD%II=I%TS=U)SEQ(SP=14%GCD=FA00%ISR=9E%CI
+OS:=RD%II=I%TS=U)OPS(O1=M5B4%O2=M5B4%O3=M5B4%O4=M5B4%O5=M5B4%O6=M5B4)WIN(W1
+OS:=FFFF%W2=FFFF%W3=FFFF%W4=FFFF%W5=FFFF%W6=FFFF)ECN(R=Y%DF=N%T=41%W=FFFF%O
+OS:=M5B4%CC=N%Q=)T1(R=Y%DF=N%T=41%S=O%A=S+%F=AS%RD=0%Q=)T2(R=Y%DF=N%T=100%W
+OS:=0%S=Z%A=S%F=AR%O=%RD=0%Q=)T3(R=Y%DF=N%T=100%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q
+OS:=)T4(R=Y%DF=N%T=100%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=N%T=100%W=0%S=Z
+OS:%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=N%T=100%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=
+OS:Y%DF=N%T=100%W=0%S=Z%A=S%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=34%IPL=164%UN=0%R
+OS:IPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)U1(R=Y%DF=N%T=36%IPL=164%UN=0%RIPL=G%RI
+OS:D=G%RIPCK=G%RUCK=G%RUD=G)U1(R=Y%DF=N%T=38%IPL=164%UN=0%RIPL=G%RID=G%RIPC
+OS:K=G%RUCK=G%RUD=G)U1(R=Y%DF=N%T=3C%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK
+OS:=G%RUD=G)U1(R=Y%DF=N%T=3E%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G
+OS:)IE(R=Y%DFI=S%T=26%CD=S)IE(R=Y%DFI=S%T=2B%CD=S)IE(R=Y%DFI=S%T=34%CD=S)IE
+OS:(R=Y%DFI=S%T=39%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 587/tcp)
+HOP RTT      ADDRESS
+1   1.21 ms  10.0.2.2
+2   52.53 ms 10.15.42.7
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed May  8 07:07:18 2024 -- 1 IP address (1 host up) scanned in 77.35 seconds
